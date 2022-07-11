@@ -1,4 +1,5 @@
 <?php
+// tambah keterangan edak
 class e_dak extends CI_Controller
 {
 	function __construct(){
