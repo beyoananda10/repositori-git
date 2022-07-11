@@ -7068,4 +7068,5 @@ WHERE sf.id_drk='376344'
                 WHERE dk.kdprovinsi='06' and dk.kdkabupaten='$kk' and dk.id_kategori_nf='$kt' and ru.ID_PENGELOMPOKAN='$kel'";
         return $this->db->query($sql); 
     }
+    // untuk latihan aja cuy
 }
