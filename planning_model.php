@@ -1,4 +1,5 @@
 <?php
+// ubah keterangan di sini
 class Planning_model extends CI_Model {
 
     public function __construct(){
@@ -955,4 +956,5 @@ class Planning_model extends CI_Model {
                     GROUP BY sa.kd_subbidang ";
                 return $this->db->query($sql);
     }
+    // latihan dulu kali yaaa
 }   
