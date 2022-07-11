@@ -2,6 +2,7 @@
 class Pendaftaran_model extends CI_Model {
         /**
         * Constructor
+        *menambahkan css ke sanaa hahahah
         */
     public function __construct(){
     parent::__construct();
