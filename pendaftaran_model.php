@@ -1,6 +1,6 @@
 <?php
 class Pendaftaran_model extends CI_Model {
-        /**
+        /** semangat coyyy
         * Constructor
         */
     public function __construct(){
